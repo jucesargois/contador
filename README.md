@@ -1,6 +1,6 @@
 # contador
 
-A new Flutter project.
+App for Startoo.dev Course_Intro_Flutter
 
 ## Getting Started
 
